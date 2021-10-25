@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kotlin_NotesApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="write_note_here">Write Note here....</string>
+    <string name="addnote">addNote</string>
+</resources>
